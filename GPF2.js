@@ -10,7 +10,7 @@
 	var msg = $("#ekteb").val();
 
 	if (name !== "string" || name === undefined) {
-		alert( "Write a clear name " )
+		alert( "Write a clear name" )
 	}
 	$("#ab").click(function(){
 		send();
